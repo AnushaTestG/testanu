@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hello
-=======
 testing file.txt
->>>>>>> c3d6a4891cf0372726a3ad38f9f61719cd6bfb5a
+hello world

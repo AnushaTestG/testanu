@@ -1,2 +1,2 @@
 *.txt @AnushaTestG/approver
-src/* @AnushaTestG
+src/* @prod-owners

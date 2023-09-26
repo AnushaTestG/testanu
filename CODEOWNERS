@@ -1,2 +1,2 @@
 *.txt @AnushaTestG/approver
-*.js @prod
+src/*.js @prod
